@@ -15,16 +15,16 @@ Projects Showcase
 1. Contactless Soap Dispenser
 Description: Simple DIY Project Based on Arduino.
 
-2. Home Weather Station with Raspberry Pi
-Description: Built a weather monitoring system using Raspberry Pi and various sensors.
+2. Raspberry Pi Multimedia Centre
+Description: A Media Centre system using Raspberry Pi and various components.
 
-3. PCB Design: IR Remote Control
-Description: Designed a custom PCB for an IR remote control project.
+3. Smart Switch For Chiller
+Description: Designed a custom system with Arduino,Sensors and Relays.
 
 How to Use
 Feel free to explore the projects and resources in this repository. If you find something interesting or have any questions, don't hesitate to reach out or open an issue.
 
 Get in Touch
-LinkedIn: Your LinkedIn Profile
-Email: your.email@example.com
+Discord: #nodenexus1706
+Email: amazondevvaish@gmail.com
 Let's connect and geek out over electronics!
