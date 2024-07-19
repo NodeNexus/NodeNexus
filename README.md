@@ -10,6 +10,7 @@ Interests: Electronics, Embedded Systems, DIY Projects, Repository Contents
 Here's a glimpse of what you'll find in this repository:
 
 **Arduino Projects:** Exciting experiments with Arduino boards, from simple LED blinkers to complex sensor integrations.
+
 **Raspberry Pi Experiments:** Exploring the capabilities of Raspberry Pi in home automation and IoT applications.
 
 **Circuit Designs:** Schematics and PCB designs of circuits I've built, including explanations and parts lists.
