@@ -5,8 +5,8 @@
 This repository is my playground where I explore various projects and ideas related to electronics.Whether it's experimenting with microcontrollers, building circuits, or diving into the world of embedded systems, you'll find my journey documented here.
 
 **About Me**                                                        
-Name: Node Nexus
-Interests: Electronics, Embedded Systems, DIY Projects, Repository Contents
+Name: Node Nexus                                                                                                                                                                                                              
+Interests: Electronics, Embedded Systems, DIY Projects, Repository Contents                                                                                                                                                   
 Here's a glimpse of what you'll find in this repository:
 
 **Arduino Projects:** Exciting experiments with Arduino boards, from simple LED blinkers to complex sensor integrations.
@@ -29,8 +29,8 @@ Description: Designed a custom system with Arduino,Sensors and Relays.
 **How to Use**
 Feel free to explore the projects and resources in this repository. If you find something interesting or have any questions, don't hesitate to reach out or open an issue.
 
-**Get in Touch**
+**Get in Touch**                                                                                                                                                                                                              
 Discord: #nodenexus1706
-Email: amazondevvaish@gmail.com
+Email: amazondevvaish@gmail.com                                                                                                                                                                                               
 Let's connect and geek out over electronics!
 
