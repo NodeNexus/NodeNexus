@@ -12,7 +12,7 @@
 - Exploring more about embedded systems + IoT 🌐  
 
 ### 👨‍💻 My Work
-All of my projects are available here 👉 [GitHub Repositories](https://github.com/NodeNexus?tab=repositories)
+All of my projects are available here 👉 https://nodenexusprojects.onrender.com/
 
 ---
 
