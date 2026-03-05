@@ -8,7 +8,7 @@
 ---
 ## 🐍 Contribution Snake
 
-![Commit Counts](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Commit Counts](https://github.com/NodeNexus/NodeNexus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
