@@ -6,14 +6,9 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="./tetris.svg" alt="GitHub Contributions Tetris" width="900"/>
-</p>
-
-<p align="center">
-  <i>✨ Auto-generated Tetris pattern • Updates daily ✨</i>
-</p>
+![Commit Counts](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
