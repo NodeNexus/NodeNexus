@@ -11,6 +11,11 @@
 ![Commit Counts](https://github.com/NodeNexus/NodeNexus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
+## 🧱 Contribution Tetris
+
+<p align="center">
+<img src="https://github-readme-tetris.vercel.app/api?username=NodeNexus"/>
+</p>
 
 ### 🌱 Currently Learning
 - Python 🐍  
