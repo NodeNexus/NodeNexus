@@ -6,7 +6,6 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
 
 ![Commit Counts](https://github.com/NodeNexus/NodeNexus/blob/output/github-contribution-grid-snake-dark.svg)
 
