@@ -60,8 +60,7 @@ This repo is my **playground** where I experiment with:
 ---
 
 ### 📬 Let's Connect
-- 💬 Discord: `#nodenexus1706`  
-- 📧 Email: **amazondevvaish@gmail.com**  
+- 📧 Email: **vaishdev.work@gmail.com**  
 
 ---
 
