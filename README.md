@@ -16,7 +16,7 @@
 - Exploring more about embedded systems + IoT 🌐  
 
 ### 👨‍💻 My Work
-All of my projects are available here 👉 https://nodenexusprojects.onrender.com/
+All of my projects are available here 👉 https://projectsbyvaish.onrender.com/
 
 ---
 
