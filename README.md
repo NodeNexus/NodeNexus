@@ -7,11 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+%26+IoT+Developer;Electronics+Enthusiast+%26+DIY+Maker;Full+Stack+Explorer+%7C+ML+Learner;Always+building%2C+always+learning+%E2%9A%A1" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="./workspace.jpg" width="500" alt="My Workspace" style="border-radius: 12px"/>
-</p>
-
-<p align="center"><i>⚡ Where circuits meet code — my everyday workspace ⚡</i></p>
+![Snake animation](https://github.com/NodeNexus/NodeNexus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -57,7 +53,11 @@
 
 ---
 
-![Snake animation](https://github.com/NodeNexus/NodeNexus/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="./workspace.jpg" width="500" alt="My Workspace" style="border-radius: 12px"/>
+</p>
+
+<p align="center"><i>⚡ Where circuits meet code — my everyday workspace ⚡</i></p>
 
 ---
 
