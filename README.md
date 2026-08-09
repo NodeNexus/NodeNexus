@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NodeNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NodeNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="420"/>
 
 ### 🧑‍💻 About Me
 
@@ -47,14 +47,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NodeNexus&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodeNexus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=NodeNexus&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodeNexus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true" width="41%" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="./workspace.jpg" width="500" alt="My Workspace" style="border-radius: 12px"/>
+  <img src="https://raw.githubusercontent.com/NodeNexus/NodeNexus/main/workspace.jpg" width="500" alt="My Workspace"/>
 </p>
 
 <p align="center"><i>⚡ Where circuits meet code — my everyday workspace ⚡</i></p>
