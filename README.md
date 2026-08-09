@@ -71,12 +71,12 @@ I believe in picking the right tool for the job. Here's what I currently work wi
 
 ## 🔥 Featured Blueprints & Projects
 
-| Project | Description | Core Tech Stack |
+| Project | Description | Primary Language |
 |:---|:---|:---|
-| 🧴 **Contactless Soap Dispenser** | A sensor-driven, touch-free hygiene solution built from scratch. | `Arduino` `IR Sensor` `Servo` |
-| 📺 **Raspberry Pi Media Centre** | Transformed a tiny Pi into a full-fledged home multimedia hub. | `Raspberry Pi` `OSMC` `Linux` |
-| ❄️ **Smart Switch for Chiller** | Automated, relay-based smart temperature control system. | `Arduino` `Relays` `Sensors` |
-| 🧠 **Machine Learning Labs** | Implementations of Regression, Find-S, and Candidate Elimination. | `Python` `Pandas` `Scikit-Learn` |
+| 💸 **[SBETS](https://github.com/NodeNexus/SBETS)** | Smart Business Expense Tracker System with zero-friction UPI integration. | `CSS` |
+| ☁️ **[NodeNexus-Cloud](https://github.com/NodeNexus/NodeNexus-Cloud)** | Cloud infrastructure and backend services project. | `TypeScript` |
+| 🌾 **[Kisaan-Flow.AI](https://github.com/NodeNexus/Kisaan-Flow.AI)** | AI-powered agricultural workflow and intelligence platform. | `TypeScript` |
+| 🧠 **[MachineLearningProjects](https://github.com/NodeNexus/MachineLearningProjects)** | Practical implementations of Regression, EDA, and Concept Learning models. | `Jupyter Notebook` |
 
 <br>
 
