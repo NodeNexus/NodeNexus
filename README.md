@@ -42,9 +42,9 @@ I build at the intersection of **bare-metal hardware and intelligent systems** �
 | Project | Domain | Architecture & Stack | Key Highlights |
 |:---|:---|:---|:---|
 | 📱 **[PocketOS](https://github.com/NodeNexus/POCKETOS)** | **Embedded OS / Firmware** | `C++` `ESP32-S3` `ST7735 TFT` `FreeRTOS` | Modular application-based operating environment for ESP32-S3-Zero. Features animated 3x3 launcher, persistent NVS flash settings, and custom GUI. |
-| 🌾 **[KisanFlow AI](https://github.com/NodeNexus/Kisaan-Flow.AI)** | **Multi-Agent AI Platform** | `Python` `CrewAI` `AMD MI300X` `FastAPI` | **Built for AMD Developer Hackathon 2025**. 5-agent autonomous agricultural workforce generating localized end-to-end farming advisories in <90s. |
-| 🛰️ **[VisionNav UGV](https://github.com/NodeNexus/VISIONNAV-VNAVEDITION)** | **Robotics & Computer Vision** | `Python` `OpenCV` `PyTorch` `Depth-Pro` | **Bharat Electronics Limited (BEL)** camera-driven autonomous navigation for outdoor UGVs in GPS-denied environments. Traversability and visual odometry. |
-| 🛡️ **[Nexus Platform](https://github.com/NodeNexus/Netraplatform.org)** | **Enterprise Cloud Systems** | `TypeScript` `Node.js` `Express` `AI Proctoring` | Enterprise online evaluation system with real-time proctoring, automated test generation, and integrity verification. |
+| 🦯 **[UniStick.Co-Pi](https://github.com/NodeNexus/UniStick.Co-Pi)** | **IoT & Assistive Robotics** | `Python` `Raspberry Pi` `Sensors` `Twilio` | Smart IoT assistive navigation system with ultrasonic obstacle telemetry, real-time sensor processing, and emergency SMS companion. |
+| 🛰️ **[VisionNav UGV](https://github.com/NodeNexus/Vision-Based-Autonomous-Navigation-for-Unmanned-Ground-Vehicle-for-Outdoor-environment)** | **Robotics & Computer Vision** | `Python` `OpenCV` `PyTorch` `Depth-Pro` | **Bharat Electronics Limited (BEL)** camera-driven autonomous navigation for outdoor UGVs in GPS-denied environments. Traversability and visual odometry. |
+| 💳 **[SBETS](https://github.com/NodeNexus/SBETS)** | **Fintech & Full-Stack Systems** | `JavaScript` `Node.js` `Express` `Chart.js` | Business expense tracking platform with simulated QR/UPI payment flows, automated category budgeting, and real-time spending analytics. |
 
 ---
 
