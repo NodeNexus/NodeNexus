@@ -4,6 +4,7 @@
   <br>
 
   <a href="https://projectsbyvaish.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vaishnav-balpande-825715338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vaishdev.work@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/NodeNexus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
